@@ -1,3 +1,7 @@
 Hello World!
 
-Add new text.
+*Курсив*
+
+**Полужирный**
+
+Add new text
